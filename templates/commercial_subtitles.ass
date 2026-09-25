@@ -7,12 +7,12 @@ ScaledBorderAndShadow: yes
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Bilingual,Hiragino Sans GB,22,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,1.5,1,2,25,25,35,1
+Style: Bilingual,Hiragino Sans GB,28,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,2.0,1.2,2,25,25,35,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.80,0:00:04.90,Bilingual,,0,0,0,,{\fs22\b1}Precision engineering. Global scale.{\r}\N{\fs19\c&H00E0E6ED&}精工品质 · 放眼全球
-Dialogue: 0,0:00:06.50,0:00:11.45,Bilingual,,0,0,0,,{\fs22\b1}From intricate design to worldwide markets, every detail matters.{\r}\N{\fs19\c&H00E0E6ED&}从精密设计到全球市场，细节铸就非凡
-Dialogue: 0,0:00:14.20,0:00:19.50,Bilingual,,0,0,0,,{\fs22\b1}Shutiao Global empowers enterprises to expand seamlessly across the globe.{\r}\N{\fs19\c&H00E0E6ED&}薯条出海，助力企业无缝拓展全球市场
-Dialogue: 0,0:00:21.00,0:00:24.50,Bilingual,,0,0,0,,{\fs22\b1}Accelerate your global journey with confidence.{\r}\N{\fs19\c&H00E0E6ED&}以实力与底气，加速全球出海征程
-Dialogue: 0,0:00:26.20,0:00:29.80,Bilingual,,0,0,0,,{\fs22\b1}Shutiao Global. Going global made simple.{\r}\N{\fs19\c&H00E0E6ED&}想出海 · 找薯条
+Dialogue: 0,0:00:00.80,0:00:04.90,Bilingual,,0,0,0,,{\fs28\b1}Precision engineering. Global scale.{\r}\N{\fs24\c&H00E0E6ED&}精工品质 · 放眼全球
+Dialogue: 0,0:00:06.50,0:00:11.45,Bilingual,,0,0,0,,{\fs28\b1}From intricate design to worldwide markets, every detail matters.{\r}\N{\fs24\c&H00E0E6ED&}从精密设计到全球市场，细节铸就非凡
+Dialogue: 0,0:00:14.20,0:00:19.50,Bilingual,,0,0,0,,{\fs28\b1}Shutiao Global empowers enterprises to expand seamlessly across the globe.{\r}\N{\fs24\c&H00E0E6ED&}薯条出海，助力企业无缝拓展全球市场
+Dialogue: 0,0:00:21.00,0:00:24.50,Bilingual,,0,0,0,,{\fs28\b1}Accelerate your global journey with confidence.{\r}\N{\fs24\c&H00E0E6ED&}以实力与底气，加速全球出海征程
+Dialogue: 0,0:00:26.20,0:00:29.80,Bilingual,,0,0,0,,{\fs28\b1}Shutiao Global. Going global made simple.{\r}\N{\fs24\c&H00E0E6ED&}想出海 · 找薯条
