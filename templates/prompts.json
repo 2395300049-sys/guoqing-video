@@ -1,0 +1,24 @@
+{
+  "industrial_apple_style": {
+    "shot1_disassembly": {
+      "duration": 15,
+      "ratio": "16:9",
+      "resolution": "768P",
+      "prompt": "A 15-second cinematic Apple-style industrial engineering showcase video, landscape 16:9. Part 1: Precision disassembly and exploded view of this miniature desktop machine. Use @1 as the initial assembled hero state, and @2 as the exploded component detail anchor. The camera smoothly tracks and pushes in towards the main cylinder; precision hex bolts, mounting flange, and internal piston smoothly glide outward along axial explosion paths in clean mechanical alignment. Sleek brushed aluminum frame, vibrant electric cyan blue anodized heatsink, transparent quartz heat chamber below, realistic specular studio rim lighting on pure dark void. High fidelity, rigid mechanical parts. Native audio ON: authentic subtle mechanical disassembly hum, crisp metallic clicks, smooth air release."
+    },
+    "shot2_assembly_rotation": {
+      "duration": 15,
+      "ratio": "16:9",
+      "resolution": "768P",
+      "prompt": "A 15-second cinematic Apple-style industrial engineering showcase video, landscape 16:9. Part 2: Precision reassembly and continuous dynamic operation of this miniature desktop machine. Use @1 as the initial exploded component state, and @2 as the completed assembled machine anchor. The separated bolts, flange, and cylinder parts smoothly fly back and lock firmly into the main chassis; screws tighten securely. Then the counterweighted flywheel begins smooth, rhythmic continuous rotation, driving the connecting rod and reciprocating piston inside the transparent quartz chamber in continuous harmonic mechanical motion. Sleek brushed aluminum, electric cyan blue anodized fins, high-contrast studio rim lighting on pure dark void. Native audio ON: rhythmic mechanical humming, continuous flywheel spinning sound, subtle metallic ticks."
+    }
+  },
+  "consumer_electronics_earbuds": {
+    "shot1_case_open": {
+      "duration": 15,
+      "ratio": "16:9",
+      "resolution": "768P",
+      "prompt": "A 15-second premium minimalist tech commercial video for wireless earbuds. Smooth orbit camera as the charging case opens effortlessly, floating magnetic earbuds levitate slightly with subtle cyan LED pulse, soft studio lighting on matte pebble texture, sleek acoustic mesh reflections."
+    }
+  }
+}
